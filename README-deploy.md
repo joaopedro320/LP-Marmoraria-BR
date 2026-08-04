@@ -8,6 +8,7 @@
 
 ## O que já está resolvido nesta versão
 
+- **Hero atualizado**: a imagem de fundo foi trocada pela fachada enviada, com enquadramento responsivo para desktop e celular, camada mais escura e sombras sutis no texto para melhorar a leitura.
 - **Fotos reais**: as 29 fotos que você mandou (do @marmoraria_br) estão aplicadas na aba de Portfólio, com filtro por categoria (Cozinhas, Banheiros, Escadarias, Fachadas, Showroom, Ambientes) e lightbox ao clicar. Fiquei de fora só das fotos de "zezinho_moveisplanejados" e "elite_moveisplanejados" que vieram no zip, porque são de outras empresas (marcenaria), não da Marmoraria BR.
 - **Logo real**: a logo redonda que você mandou está no header e no rodapé (`images/logo.png`), e gerei um favicon (`images/favicon.png`) e uma imagem de compartilhamento (`images/og-image.jpg`) a partir dela e de uma das fotos reais.
 - **Headline**: "Marmoraria de Alto Padrão perto de você!"
